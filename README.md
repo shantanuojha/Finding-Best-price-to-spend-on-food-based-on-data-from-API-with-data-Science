@@ -10,4 +10,4 @@ Graph ploted using matplotlib
 ![Venu count vs Venu category](https://github.com/shantanuojha/Data-Science-project/blob/master/image/picture%201.png)
 
 # Venu count vs Ratting
-![Venu count vs Ratting](https://github.com/shantanuojha/Data-Science-project/blob/master/image/picture%201.png)
+![Venu count vs Ratting](https://github.com/shantanuojha/Data-Science-project/blob/master/image/picture%202.png)
